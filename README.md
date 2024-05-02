@@ -2,7 +2,7 @@ Hello, i'm a Full Stack developer 👩🏻‍💻
 
 
 ![image](https://github.com/juliefort/juliefort/assets/141854188/b3ad0b6a-604d-4213-a471-94699adcfafb)
-<img src="[/assets/141854188/b3ad0b6a-604d-4213-a471-94699adcfafb](https://github.com/juliefort/juliefort/assets/141854188/b3ad0b6a-604d-4213-a471-94699adcfafb](https://github.com/juliefort/juliefort/assets/141854188/b3ad0b6a-604d-4213-a471-94699adcfafb)" width="50" />
+<img src="/assets/141854188/b3ad0b6a-604d-4213-a471-94699adcfafb](https://github.com/juliefort/juliefort/assets/141854188/b3ad0b6a-604d-4213-a471-94699adcfafb](https://github.com/juliefort/juliefort/assets/141854188/b3ad0b6a-604d-4213-a471-94699adcfafb" width="100" />
 ![image](https://github.com/juliefort/juliefort/assets/141854188/2626dbd5-21e5-4b0b-ae01-7e9533d0e09d)
 ![image](https://github.com/juliefort/juliefort/assets/141854188/509deb85-99e4-41bc-a240-99df18365908)
 ![image](https://github.com/juliefort/juliefort/assets/141854188/2cd7fda4-3099-4145-8247-155264fb363b)
