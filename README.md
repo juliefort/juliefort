@@ -14,10 +14,10 @@ Hello, i'm a Full Stack developer 👩🏻‍💻
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="15" />
 </div>
 
+<div display="flex", align-items:"center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliefort&show_icons=true&locale=en&layout=compact" alt="juliefort" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliefort&show_icons=true&locale=en" alt="juliefort" /></p>
-
+</div>
 
 
 
