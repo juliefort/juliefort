@@ -1,7 +1,6 @@
 Hello, i'm a Full Stack developer 👩🏻‍💻
 
 
-![image](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png))
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" />
 ![image](https://github.com/juliefort/juliefort/assets/141854188/2626dbd5-21e5-4b0b-ae01-7e9533d0e09d)
 ![image](https://github.com/juliefort/juliefort/assets/141854188/509deb85-99e4-41bc-a240-99df18365908)
