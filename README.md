@@ -14,17 +14,11 @@ Hello, i'm a Full Stack developer 👩🏻‍💻
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="15" />
 </div>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juliefort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliefort" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliefort&show_icons=true&locale=en&layout=compact" alt="juliefort" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliefort&show_icons=true&locale=en" alt="juliefort" /></p>
 
-Support 🙏
+
 
 
 
