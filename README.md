@@ -1,5 +1,6 @@
 Hello, i'm a Full Stack developer 👩🏻‍💻
 
+<p> I'm using them : </p>
 <div display="flex">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="15" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="15" />
