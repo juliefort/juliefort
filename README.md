@@ -1,13 +1,18 @@
 Hello, i'm a Full Stack developer 👩🏻‍💻
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" />
-![image](https://github.com/juliefort/juliefort/assets/141854188/2626dbd5-21e5-4b0b-ae01-7e9533d0e09d)
-![image](https://github.com/juliefort/juliefort/assets/141854188/509deb85-99e4-41bc-a240-99df18365908)
-![image](https://github.com/juliefort/juliefort/assets/141854188/2cd7fda4-3099-4145-8247-155264fb363b)
-![image](https://github.com/juliefort/juliefort/assets/141854188/b6e0ab70-08c6-45f4-99fc-079d9a9488b9)
-![image](https://github.com/juliefort/juliefort/assets/141854188/6bbb62be-272d-4626-9aa6-a2f5b1e0ed10)
-![image](https://github.com/juliefort/juliefort/assets/141854188/17a2ccfb-f9a9-4154-aec1-94fce5275c83)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="30" />
+<img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Symfony2.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="30" />
+
 
 
 
