@@ -1,4 +1,4 @@
-Hello, i'm a Full Stack developer 👩🏻‍💻
+Hello, i'm a Full Stack Developer 👩🏻‍💻
 
 <p> What i'm currently using : </p>
 <div display="flex">
